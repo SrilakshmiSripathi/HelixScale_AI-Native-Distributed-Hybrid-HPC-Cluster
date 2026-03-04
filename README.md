@@ -1,4 +1,4 @@
-# 🚀 HelixScale: HPC-Optimized Data Platform
+# 🚀 HelixScale: HPC-Optimized Data Platform Orchestrator
 
 Core Objective: A proof-of-concept platform that bridges the gap between High-Performance Computing (HPC) and Cloud-Native MLOps, automating the deployment of NVIDIA BioNeMo microservices.
 
